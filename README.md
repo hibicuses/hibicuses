@@ -10,8 +10,7 @@ I'm a passionate beginner front-end developer eager to build engaging and respon
 - Tailwind CSS
 - WordPress
 
- 📚 Projects <br>
-Here are some of the projects I've worked on:
+
 
  📫 How to Reach Me
 - Email: [(mansoorduaa22@gmail.com)]

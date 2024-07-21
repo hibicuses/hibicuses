@@ -8,8 +8,13 @@ I'm a passionate beginner front-end developer eager to build engaging and respon
 - Vanilla CSS
 - JavaScript
 - Tailwind CSS
-- WordPress
+- WordPress(still learning phase)
+  
 
+💫 Projects
+- Tic Tac Toe game
+- Rock Paper Scissor game
+- Parallax animation
 
 
  📫 How to Reach Me

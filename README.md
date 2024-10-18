@@ -1,13 +1,14 @@
  Hi there, I'm Hiba Mansoor 👋
 
  🚀 About Me <br>
-I'm a passionate beginner front-end developer eager to build engaging and responsive web experiences. I'm continually learning and growing my skills in HTML, CSS, JavaScript, and Tailwind CSS. I'm also exploring the world of WordPress and WooCommerce.
+I'm a passionate beginner front-end developer eager to build engaging and responsive web experiences. I'm continually learning and growing my skills in HTML, CSS, JavaScript, C++ and PHP. I'm also exploring the world of WordPress and WooCommerce.
 
 🔧 Technologies & Tools <br>
 - HTML
-- Vanilla CSS
+- CSS
 - JavaScript
-- Tailwind CSS
+- C++
+- PHP
 - WordPress(still learning phase)
   
 
